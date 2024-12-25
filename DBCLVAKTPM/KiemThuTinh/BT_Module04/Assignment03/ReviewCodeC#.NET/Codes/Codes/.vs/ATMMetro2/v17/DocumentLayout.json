@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.dao\\carddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\carddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atm.dao\\validateusercardbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\validateusercardbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atmmetro2\\view\\thankyou.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|solutionrelative:atmmetro2\\view\\thankyou.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atm.dao\\authenticateuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\authenticateuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atmmetro2\\view\\viewbalanceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|solutionrelative:atmmetro2\\view\\viewbalanceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atmmetro2\\view\\waitformoneyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|solutionrelative:atmmetro2\\view\\waitformoneyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atmmetro2\\view\\waitforprint.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE01683-98CB-4019-A312-2CCA205AF070}|ATMMetro2\\ATMMetro2.csproj|solutionrelative:atmmetro2\\view\\waitforprint.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.dao\\atmdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\atmdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.dao\\accountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\accountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|d:\\dbclvaktpm\\module_04\\module 04_statictesting\\assignment03\\reviewcodec#.net\\codes\\codes\\atm.bus\\withdrawmoneybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|solutionrelative:atm.bus\\withdrawmoneybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.bus\\validationbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|solutionrelative:atm.bus\\validationbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690602E8-B7B7-40E0-B31B-118849FC8546}|ATM.Common\\ATM.Common.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.common\\sqlconnectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690602E8-B7B7-40E0-B31B-118849FC8546}|ATM.Common\\ATM.Common.csproj|solutionrelative:atm.common\\sqlconnectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.dao\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D26938-B1E2-4A92-8772-55E82C3BEFC0}|ATM.DAO\\ATM.DAO.csproj|solutionrelative:atm.dao\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\atm.entities\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B36164-7C19-4B20-AAAC-49658123D347}|ATM.Entities\\ATM.Entities.csproj|solutionrelative:atm.entities\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateUserbll.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\AuthenticateUserbll.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\AuthenticateUserbll.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\AuthenticateUserbll.cs",
+              "RelativeToolTip": "ATM.DAO\\AuthenticateUserbll.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:29:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewBalanceView.xaml.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\ViewBalanceView.xaml.cs",
+              "RelativeDocumentMoniker": "ATMMetro2\\View\\ViewBalanceView.xaml.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\ViewBalanceView.xaml.cs",
+              "RelativeToolTip": "ATMMetro2\\View\\ViewBalanceView.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:28:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thankyou.xaml.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\Thankyou.xaml.cs",
+              "RelativeDocumentMoniker": "ATMMetro2\\View\\Thankyou.xaml.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\Thankyou.xaml.cs",
+              "RelativeToolTip": "ATMMetro2\\View\\Thankyou.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:58:10.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaitForMoneyView.xaml.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\WaitForMoneyView.xaml.cs",
+              "RelativeDocumentMoniker": "ATMMetro2\\View\\WaitForMoneyView.xaml.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\WaitForMoneyView.xaml.cs",
+              "RelativeToolTip": "ATMMetro2\\View\\WaitForMoneyView.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:58:02.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ATMDAO.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\ATMDAO.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\ATMDAO.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\ATMDAO.cs",
+              "RelativeToolTip": "ATM.DAO\\ATMDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:33:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidateUserCardbll.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\ValidateUserCardbll.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\ValidateUserCardbll.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\ValidateUserCardbll.cs",
+              "RelativeToolTip": "ATM.DAO\\ValidateUserCardbll.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:47:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardDAO.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\CardDAO.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\CardDAO.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\CardDAO.cs",
+              "RelativeToolTip": "ATM.DAO\\CardDAO.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:40:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountData.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\AccountData.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\AccountData.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\AccountData.cs",
+              "RelativeToolTip": "ATM.DAO\\AccountData.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:27:27.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WithdrawMoneyBl.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\WithdrawMoneyBl.cs",
+              "RelativeDocumentMoniker": "ATM.Bus\\WithdrawMoneyBl.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\WithdrawMoneyBl.cs",
+              "RelativeToolTip": "ATM.Bus\\WithdrawMoneyBl.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:53:05.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaitforPrint.xaml.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\WaitforPrint.xaml.cs",
+              "RelativeDocumentMoniker": "ATMMetro2\\View\\WaitforPrint.xaml.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATMMetro2\\View\\WaitforPrint.xaml.cs",
+              "RelativeToolTip": "ATMMetro2\\View\\WaitforPrint.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:49:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\CustomerData.cs",
+              "RelativeDocumentMoniker": "ATM.DAO\\CustomerData.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.DAO\\CustomerData.cs",
+              "RelativeToolTip": "ATM.DAO\\CustomerData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:11:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqlConnectionData.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Common\\SqlConnectionData.cs",
+              "RelativeDocumentMoniker": "ATM.Common\\SqlConnectionData.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Common\\SqlConnectionData.cs",
+              "RelativeToolTip": "ATM.Common\\SqlConnectionData.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:03:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardModel.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Entities\\CardModel.cs",
+              "RelativeDocumentMoniker": "ATM.Entities\\CardModel.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Entities\\CardModel.cs",
+              "RelativeToolTip": "ATM.Entities\\CardModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:12:01.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationBus.cs",
+              "DocumentMoniker": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\ValidationBus.cs",
+              "RelativeDocumentMoniker": "ATM.Bus\\ValidationBus.cs",
+              "ToolTip": "D:\\DBCLVAKTPM\\Module_04\\Module 04_StaticTesting\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\ValidationBus.cs",
+              "RelativeToolTip": "ATM.Bus\\ValidationBus.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwC0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:19:57.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

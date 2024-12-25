@@ -1,0 +1,14 @@
+dao\ProductDao.class
+entity\Address.class
+dao\SupplierDao.class
+entity\Customer.class
+entity\OrderDetail.class
+dao\OrderDao.class
+entity\Category.class
+util\AppUltil.class
+entity\Product.class
+entity\Order.class
+dao\CustomerDao.class
+dao\CategoryDao.class
+entity\Contact.class
+entity\Supplier.class

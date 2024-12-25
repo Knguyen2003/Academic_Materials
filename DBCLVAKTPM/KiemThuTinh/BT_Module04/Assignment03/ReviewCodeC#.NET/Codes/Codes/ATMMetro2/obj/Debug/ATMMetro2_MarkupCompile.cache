@@ -1,0 +1,20 @@
+﻿ATMMetro2
+
+
+winexe
+C#
+.cs
+D:\DBCLVAKTPM\Module_04\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATMMetro2\obj\Debug\
+ATMMetro2
+none
+false
+DEBUG;TRACE
+D:\DBCLVAKTPM\Module_04\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATMMetro2\App.xaml
+17-437014452
+
+21944016218
+15-53008386
+Controls\Header.xaml;MainWindow.xaml;View\AmountofMoney.xaml;View\AskForReceipt.xaml;View\ConfirmPIN.xaml;View\HomeView.xaml;View\InsertCardView.xaml;View\InsertPINView.xaml;View\NewPIN.xaml;View\NewTransaction.xaml;View\OldPIN.xaml;View\Thankyou.xaml;View\ViewBalanceView.xaml;View\WaitForMoneyView.xaml;View\WaitforPrint.xaml;View\WelcomeView.xaml;View\WithdrawView.xaml;
+
+True
+

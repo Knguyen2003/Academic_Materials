@@ -1,0 +1,7 @@
+﻿n, expected
+2000,TRUE
+2024,TRUE
+1800,FALSE
+1582,FALSE
+1200,Expection
+1581,Expection

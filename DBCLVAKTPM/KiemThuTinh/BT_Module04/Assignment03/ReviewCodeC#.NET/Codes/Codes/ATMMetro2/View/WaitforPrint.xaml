@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="ATMMetro2.View.WaitforPrint"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="500" Width="800" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Text="Please wait to print the receipt"
+                   FontSize="30"/>
+        <TextBlock x:Name="timer" Text="3" Foreground="Transparent" />
+        <Border Grid.Row="1"
+                BorderThickness="0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            <Image Source="../Images/wait.jpg" 
+                   Width="200"
+                   Height="200"/>
+            
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,9 @@
+﻿s1,s2,s3,expected
+"truong dh cong nghiep","dh","dai hoc","truong dai hoc cong nghiep"
+"truong dh cong nghiep","sfd","dai hoc","truong dh cong nghiep"
+"","","",""
+"dh cong nghiep","dh","dai hoc","dai hoc cong nghiep"
+"truong dh cn","cn","cong nghiep","truong dh cong nghiep"
+"","dh","dai hoc","Chuỗi s1 không được rỗng"
+"truong dh cong nghiep","","dai hoc","truong dh cong nghiep"
+"truong dh cong nghiep","dh","","truong cong nghiep"

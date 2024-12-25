@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9A530F29-0AF6-4DEE-B2D5-016BA703D005}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATM.UnitTest</RootNamespace>
+    <AssemblyName>ATM.UnitTest</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.4.6.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangePINTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestFixtureAuthentication.cs" />
+    <Compile Include="TestValidateCard.cs" />
+    <Compile Include="UnitTestTearDown.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ATM.Bus\ATM.Bus.csproj">
+      <Project>{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}</Project>
+      <Name>ATM.Bus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.Common\ATM.Common.csproj">
+      <Project>{690602E8-B7B7-40E0-B31B-118849FC8546}</Project>
+      <Name>ATM.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.DAO\ATM.DAO.csproj">
+      <Project>{78D26938-B1E2-4A92-8772-55E82C3BEFC0}</Project>
+      <Name>ATM.DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.Entities\ATM.Entities.csproj">
+      <Project>{C8B36164-7C19-4B20-AAAC-49658123D347}</Project>
+      <Name>ATM.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATMMetro2\ATMMetro2.csproj">
+      <Project>{9BE01683-98CB-4019-A312-2CCA205AF070}</Project>
+      <Name>ATMMetro2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reference\nunit.framework.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

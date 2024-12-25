@@ -1,0 +1,5 @@
+﻿num , expected
+17,TRUE
+25,FALSE
+0,FALSE
+1000,FALSE

@@ -1,0 +1,12 @@
+﻿a,b,c,expected
+2,2,2,Triangle is Equilateral
+2,5,10,Not a triangle
+6,2,3,Not a triangle
+2,6,3,Not a triangle
+2,5,6,Triangle is Scalence
+5,5,-2,Not a triangle
+5,5,2,Triangle is Isosceles
+2,5,2,Not a triangle
+2,3,2,Triangle is Isosceles
+7,3,3,Not a triangle
+2,3,3,Triangle is Isosceles

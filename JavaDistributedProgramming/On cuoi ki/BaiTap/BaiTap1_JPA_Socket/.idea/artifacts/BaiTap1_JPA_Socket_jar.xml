@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BaiTap1_JPA_Socket:jar">
+    <output-path>$PROJECT_DIR$/../Baitap1_JPA_Socket_Client/lib</output-path>
+    <root id="archive" name="lib.jar">
+      <element id="directory" name="entity">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Candidate.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Certificate.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Experience.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Position.class" />
+      </element>
+    </root>
+  </artifact>
+</component>

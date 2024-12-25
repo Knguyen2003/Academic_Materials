@@ -1,0 +1,105 @@
+<UserControl x:Class="ATMMetro2.View.AmountofMoney"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"       
+    Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <TextBlock Text="MIN:" FontSize="30" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+            <TextBlock Text="50,000 VND" FontSize="30" HorizontalAlignment="Left" />
+            <TextBlock Text="MAX:" FontSize="30" HorizontalAlignment="Right" Margin="200,0,0,0" />
+            <TextBlock Text="5,000,000 VND" FontSize="30" HorizontalAlignment="Right"/>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <TextBlock HorizontalAlignment="Center"
+
+                       Text="Enter amount of money" 
+                       FontSize="30" 
+                       Height="44" 
+                       VerticalAlignment="Bottom" />
+        </Grid>
+        <Grid Grid.Row="2">
+            <StackPanel Orientation="Horizontal" >
+                <TextBox x:Name="Money" 
+                         Margin="250,0,50,0" 
+                         FontSize="30" 
+                         Height="40" 
+                         Width="300"
+                         HorizontalAlignment="Center"
+                         HorizontalContentAlignment="Center"/>
+
+                <TextBox Margin="250,0,50,0" 
+                         Height="35" 
+                         Width="300" 
+                         HorizontalAlignment="Center"/>
+
+                <TextBlock Text="VND" 
+                           HorizontalAlignment="Right" 
+                           VerticalAlignment="Center" 
+                           FontSize="30"/>
+                
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Button x:Name="OK" Content="OK"
+                        Grid.Row="3"
+                        Height="50"
+                        Width="100"
+                        Margin="20 0 0 50" 
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Bottom"
+                        Background="Green" Click="OK_Click" />
+            <Button x:Name="Clear" 
+                        Content="Clear"
+                        Grid.Row="3"
+                        Height="50"
+                        Width="100"
+                        Margin="0 0 20 50"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Background="Green" Click="Clear_Click" />
+            <Button x:Name="Cancel" 
+                        Content="Cancel"
+                        Grid.Row="3"
+                        Height="50"
+                        Width="100"
+                        Margin="0 0 20 50"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Bottom"
+                        Background="Green" Click="Cancel_Click" />
+        </Grid>
+        <Grid Grid.Row="4">
+            <TextBlock x:Name="Notice1" 
+                       Text="Re-insert your money!" 
+                       HorizontalAlignment="Center" 
+                       FontSize="30" 
+                       Foreground="Red" 
+                       Visibility="Collapsed"/>
+            <TextBlock x:Name="Notice2" 
+                       Text="Insert your money!" 
+                       HorizontalAlignment="Center" 
+                       FontSize="30" 
+                       Foreground="Red" 
+                       Visibility="Collapsed"/>
+            <TextBlock x:Name="Notice3" 
+                       Text="The money must be multiples of 50,000!" 
+                       HorizontalAlignment="Center" 
+                       FontSize="30" 
+                       Foreground="Red" 
+                       Visibility="Collapsed"/>
+            <TextBlock x:Name="Notice4" 
+                       Text="ATM or your account is not enough money" 
+                       HorizontalAlignment="Center" 
+                       FontSize="30" 
+                       Foreground="Red" 
+                       Visibility="Collapsed"/>
+            
+            </Grid>
+    </Grid>
+</UserControl>

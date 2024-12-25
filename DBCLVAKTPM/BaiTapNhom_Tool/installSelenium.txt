@@ -1,0 +1,9 @@
+pip install selenium pytest
+
+pytest tests/test_functional/test_addTask.py
+
+pytest tests/test_functional/test_editTask.py
+
+pytest tests/test_functional/test_doneTask.py
+
+pytest tests/test_functional/test_deleteTask.py

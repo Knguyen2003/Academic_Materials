@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bai4_Socket_JPA:jar">
+    <output-path>$PROJECT_DIR$/../Bai4_Socket_JPA_Client/lib</output-path>
+    <root id="archive" name="lib.jar">
+      <element id="directory" name="entity">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Department.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Facility.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Maintenance.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Person.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Status.class" />
+      </element>
+    </root>
+  </artifact>
+</component>

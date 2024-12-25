@@ -1,0 +1,6 @@
+﻿email,expectede
+nguyen@gmailcom,FALSE
+nguyengmail..com,FALSE
+nguyengmail.com@,FALSE
+nguyengmail@@.com,FALSE
+nguyen@gmail.com,TRUE

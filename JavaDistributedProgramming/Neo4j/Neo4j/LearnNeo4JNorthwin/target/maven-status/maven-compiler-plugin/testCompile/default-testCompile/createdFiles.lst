@@ -1,0 +1,6 @@
+dao\CustomerDaoTest.class
+dao\OrderDaoTest.class
+dao\ProductDaoTest.class
+dao\SupplierDaoTest.class
+dao\CategoryDaoTest.class
+test\MainTest.class
